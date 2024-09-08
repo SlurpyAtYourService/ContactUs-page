@@ -90,9 +90,9 @@ min-width: 30px;
 /* for gmail */
 .container .contactInfo ul.info li span a
 {
-color: #000000;
+color: #fff;
 text-decoration: none;
-width: 31px;
+width: 30px;
 min-width: 30px;
 
 }
@@ -147,8 +147,8 @@ border-radius: 22px;
 
 .container .contactForm h2
 {
-color: #fff;
-font-size: 24px;
+color: #000000;
+font-size: 25px;
 font-weight: 500;
 }
 
