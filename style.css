@@ -47,7 +47,7 @@ position: absolute;
 top: 40px;
 width: 350px;
 height: calc(100% - 80px);
-background: #FF5733;
+background: #C1E1C1;
 z-index: 1;
 padding: 40px;
 display: flex;
@@ -216,7 +216,7 @@ transform: translateY(-20px);
 font-size: 12px;
 font-weight: 400;
 letter-spacing: 1px;
-color: #FF5733;
+color:F #C1E1C1;
 font-weight: 500;
 }
 
@@ -225,7 +225,7 @@ font-weight: 500;
 {
 position: relative;
 cursor: pointer;
-background: #FF5733;
+background: #C1E1C1;
 border-radius: 20px;
 color: #fff;
 border: none;
@@ -279,7 +279,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 min-height: 100vh;
-background: #FF5733;
+background: #C1E1C1;
 }
 
 section::before
